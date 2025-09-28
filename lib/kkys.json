@@ -8,7 +8,7 @@
 	
 	"二次截取": "div class=\"module-box module-v-box\">&&<div class=\"pagenation-box fs-margin-section\">",
 	"数组": "<a&&</a>",
-	"图片": "data-original=\"&&\"[替换:/vod1->https://61.147.93.252:15002/vod1]",
+	"图片": "data-original=\"&&\"[替换:/vod1>>https://61.147.93.252:15002/vod1]",
 	"标题": "title=\"&&\"",
 	"链接": "href=\"&&\"",
 	"副标题": "class=\"v-item-bottom\">&&</div>",
