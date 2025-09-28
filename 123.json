@@ -60,10 +60,10 @@
         }
       }
     },
-  { "key": "泥视频i", "name": "泥视频 I | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" }, 	  
+  //{ "key": "泥视频i", "name": "泥视频 I | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/nivodi.json" }, 	  
   { "key": "哈哈影视", "name": "哈哈 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/哈哈影视.json" },
-  { "key": "香蕉影视", "name": "香蕉 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/香蕉影视.json" },  	  
-  { "key": "hipy_guazi", "name": "瓜子┃影视", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "order_num": 0, "changeable": 0, "ext": "./drpy_js/瓜子.js" },
+  //{ "key": "香蕉影视", "name": "香蕉 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/香蕉影视.json" },  	  
+  //{ "key": "hipy_guazi", "name": "瓜子┃影视", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "order_num": 0, "changeable": 0, "ext": "./drpy_js/瓜子.js" },
   //{ "key": "tianya", "name": "天涯 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/ty.json" },  
   //{ "key": "腾云驾雾[官]", "name": "腾云 | 影视", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "order_num": 0, "changeable": 0 },  
   { "key": "豆瓣", "name": "豆瓣 | 推荐", "type": 3, "api": "csp_Douban", "searchable": 0, "changeable": 1, "ext": "./lib/douban.json" }, 
