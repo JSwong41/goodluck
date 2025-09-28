@@ -1,14 +1,8 @@
 {
-  "sites": [
+  "urls": [
     {
-      "key": "goodluck123",
-      "name": "📺 新影视 3.0",
-      "type": 1,
-      "api": "https://raw.githubusercontent.com/JSwong41/goodluck/main/goodluck123.json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
+      "url": "https://raw.githubusercontent.com/JSwong41/goodluck/main/goodluck123.json",
+      "name": "📺 新影视 3.0"
     }
   ]
 }
