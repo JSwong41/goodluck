@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "zy_bfzy",
+      "name": "资源-暴风",
+      "type": 1,
+      "api": "https://fmtv01.ggff.net/baofeng/baofeng.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
