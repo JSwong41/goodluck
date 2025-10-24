@@ -15,7 +15,7 @@
     { "key": "drpy_js_动漫岛", "name": "动漫岛 | 动漫", "type": 3, "api": "./lib/drpy2.min.js", "ext": "./drpy_js/动漫岛.js" },
     { "key": "drpy_js_奇米动漫", "name": "奇米 | 动漫", "type": 3, "api": "./lib/drpy2.min.js", "ext": "./drpy_js/奇米动漫.js" },
     { "key": "drpy_js_去看吧", "name": "去看吧 | 动漫", "type": 3, "api": "./lib/drpy2.min.js", "ext": "./drpy_js/去看吧.js" },
-    { "key": "ymvid_spider", "name": "粤漫之家 | 粤语动漫", "type": 3, "api": "ymvid_spider.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/ymvid_spider.py"  }
+    { "key": "ymvid_spider", "name": "粤漫之家 | 粤语动漫", "type": 3, "api": "ymvid_spider.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":  }
   ],
 
   "doh": [
