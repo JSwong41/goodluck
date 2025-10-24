@@ -3,6 +3,11 @@
     {
       "url": "https://raw.githubusercontent.com/JSwong41/goodluck/main/123.json",
       "name": "📺 Goodluck 影视 3.0"
-    }
+    },
+    {
+          "url": "https://raw.githubusercontent.com/JSwong41/goodluck/main/anime.json",
+          "name": " 🍄 Goodluck 动漫 "
+      }
+    
   ]
 }
