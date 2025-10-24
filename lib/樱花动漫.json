@@ -1,12 +1,12 @@
 {
 	"作者": "心魔",
 	"站名": "樱花动漫",
-	"主页url": "http://www.yinghuacd.com/",
+	"主页url": "https://yhdm.one//",
 	"热门": "",
    "请求头": "",
    "分类": "日本动漫$japan#国产动漫$china#美国动漫$american#动漫电影$movie#",
 
-	"分类url": "http://www.yinghuacd.com/{cateId}/{catePg}.html[http://www.yinghuacd.com/{cateId}/]",
+	"分类url": "https://yhdm.one//{cateId}/{catePg}.html[https://yhdm.one//{cateId}/]",
 	"二次截取": "class=\"lpic\"&&</div>",
 	"数组": "<li>&&</li>",
 	"副标题": "",
