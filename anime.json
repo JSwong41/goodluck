@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/pg316.jar",
+  "spider": "./jar/custom_spider.jar",
   "logo": "./logoico.png",
   "wallpaper": "http://fai-mang.net/image.php",
   "sites": [
