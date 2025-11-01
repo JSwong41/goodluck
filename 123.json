@@ -20,7 +20,7 @@
 	{ "key": "xinzuida", "name": "新最大 | 影视", "type": 1, "api": "https://fmtv01.ggff.net/zuida/zuida.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 },  
 	{ "key": "xinty", "name": "新天涯 | 影视", "type": 1, "api": "https://fmtv01.ggff.net/tianya/tianya.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 },   
 	{ "key": "xintt", "name": "新天堂 | 影视", "type": 1, "api": "https://fmtv01.ggff.net/dianying/dianying.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 },  
-	{ "key": "xintt", "name": "新神速 | 影视", "type": 1, "api": "https://fmtv01.ggff.net/heimuer/heimuer.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 },
+	{ "key": "heimuer", "name": "新神速 | 影视", "type": 1, "api": "https://fmtv01.ggff.net/heimuer/heimuer.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 },
   //{ "key": "heimuer2", "name": "3月旧版2.0无法使用，请尽快到Facebook群组查看", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/黑木耳资源.json" },
   //{ "key": "heimuer3", "name": "即将进入2.5版本,旧版2.0即将停用", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/黑木耳资源.json" },
   //{ "key": "heimuer1", "name": "神速 | 无广告备用", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/黑木耳资源.json" },
