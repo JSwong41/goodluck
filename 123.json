@@ -68,6 +68,7 @@
   //{ "key": "tianya", "name": "天涯 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/ty.json" },  
   //{ "key": "腾云驾雾[官]", "name": "腾云 | 影视", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "order_num": 0, "changeable": 0 },  
   { "key": "豆瓣", "name": "豆瓣 | 推荐", "type": 3, "api": "csp_Douban", "searchable": 0, "changeable": 1, "ext": "./lib/douban.json" }, 
+  { "key": "liangzi", "name": "新测黑木耳 | 影视", "type": 1, "api": "https://json.heimuer.tv/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 },	  
   { "key": "tianyi", "name": "新天翼 | 影视", "type": 1, "api": "https://tyyszyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 },	
   { "key": "liangzi", "name": "新天量子 | 影视", "type": 1, "api": "https://cj.lziapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 },
   { "key": "okyingshi", "name": "新ok | 影视", "type": 1, "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 },
