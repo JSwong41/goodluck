@@ -15,8 +15,6 @@
   //{ "key": "lf_js_search","name":"搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"}, 
   //{ "key": "T4-欧乐", "name": "欧乐 | 影视", "type": 4, "api": "https://tang.hz.cz/power/olelive?token=1d831d46", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 },	
   //{ "key": "应用商店", "name": "应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext": "./lib/market.json"},
-	{ "key": "巴士", "name": "巴士 | 动漫", "type": 3, "api": "csp_Dm84", "searchable": 1, "changeable": 1, "jar": "./jar/custom_spider.jar" },
-	{ "key": "異界", "name": "異界 | 动漫", "type": 3, "api": "csp_Ysj", "searchable": 1, "changeable": 1, "jar": "./jar/custom_spider.jar" },  
 	{ "key": "xinbaofeng", "name": "新暴风 | 影视", "type": 1, "api": "https://fmtv01.ggff.net/baofeng/baofeng.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 }, 
 	{ "key": "xinsuoni", "name": "新索尼 | 影视", "type": 1, "api": "https://fmtv01.ggff.net/suoni/suoni.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 },   
 	{ "key": "xinzuida", "name": "新最大 | 影视", "type": 1, "api": "https://fmtv01.ggff.net/zuida/zuida.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0 },  
